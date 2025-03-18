@@ -2,7 +2,8 @@
 Build a Survey Form to collect data from users 
 
 <p align="center">
-<img width="514" alt="image" src="https://github.com/user-attachments/assets/1f974c9c-a374-4184-832d-dc5ea134d568" />
+<img width="514" alt="image" src="https://github.com/user-attachments/assets/25e395b3-2601-4541-973b-cda0c403a58b" />
+
 
 
 </p>
