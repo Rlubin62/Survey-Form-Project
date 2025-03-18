@@ -8,7 +8,7 @@ Build a Survey Form to collect data from users
 </p>
 
 <h1>Responsive Web Design - Building a Survey Form</h1>
-This tutorial outlines the process of building a survey form to collect data from users.<br />
+This outlines the HTML and CSS language for building a survey form to collect data from Healthcare marketplace users.<br />
 
 <h2>Environments and Technologies Used</h2>
 - Git 
