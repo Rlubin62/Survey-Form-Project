@@ -1,23 +1,29 @@
-# Building-a-Survey-Form
-Build a Survey Form to collect data from users 
+# Responsive Healthcare Survey Form
 
-<p align="center">
-<img width="514" alt="image" src="https://github.com/user-attachments/assets/25e395b3-2601-4541-973b-cda0c403a58b" />
+A small front-end project that collects healthcare marketplace feedback through a clear, responsive form. It demonstrates semantic HTML, native browser validation, accessible labels, and organized CSS.
 
+![Survey form preview](https://github.com/user-attachments/assets/25e395b3-2601-4541-973b-cda0c403a58b)
 
+## Skills Demonstrated
 
-</p>
+- Semantic HTML5 form structure
+- Accessible labels and grouped controls
+- Native validation for required fields and email input
+- Responsive CSS layout
+- Git and GitHub project organization
 
-<h1>Responsive Web Design - Building a Survey Form</h1>
-This outlines the HTML and CSS language for building a survey form to collect data from Healthcare marketplace users.<br />
+## Technologies
 
-<h2>Environments and Technologies Used</h2>
-- Git 
-- HTML5 (Hypertext Markup Language)
-- CSS (Cascading Style Sheets)
+- HTML5
+- CSS3
+- Git and GitHub
 
-<h2>Operating Systems Used </h2>
-- Windows 10</b> (21H2)
+## Run Locally
 
+1. Download or clone this repository.
+2. Open `index.html` in a web browser.
+3. Complete the form to test its validation and responsive layout.
 
+## Project Context
 
+This is an early web-design project retained to demonstrate foundational front-end knowledge. My primary portfolio focus is IT support, systems administration, and help-desk technology.
